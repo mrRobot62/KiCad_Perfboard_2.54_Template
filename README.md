@@ -89,7 +89,7 @@ ordinary component pads.
 > Every solder point must attached to a net layer (e.g. GND, +5V, NET-xxxxxx, ....)
 > Mark solder point, press E and change netclass
 
-![Example perfboard grid layout](BK_Perfboard_2.54/assets/perf_solderpoints_netclass.png)
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/perf_solderpoint_netclass.png)
 
 
 ### Grid-aligned board outline
