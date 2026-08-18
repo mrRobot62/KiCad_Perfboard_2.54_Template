@@ -50,12 +50,15 @@ A subtle hole grid on `User.Drawings` represents the physical perfboard
 and helps align components with the real 2.54 mm pitch. The grid objects
 are grouped and intentionally unobtrusive.
 
-![Example perfboard grid layout](BK_Perfboard_2.54/assets/pcb_grid2.png)
+![Example perfboard grid layout detail](BK_Perfboard_2.54/assets/pcb_grid2.png)
 
 > [!TIP]
 > If you do not need this grid, disable/enable this via User.drawing layer
 <br>
+
 ![Example perfboard grid layout](BK_Perfboard_2.54/assets/pcb_grid.png)
+
+
 
 ### Dedicated wiring layers
 
