@@ -39,13 +39,9 @@ same KiCad project.
 **Schematic → ERC → Footprint placement → Perfboard routing → DRC →
 Physical assembly**
 
-`<tbd img circuit>`{=html}
+![Example perfboard circuit layout](BK_Perfboard_2.54/assets/circuit_7seg_demo.png)
 
-```{=html}
-<!-- Replace with:
-![Example schematic](assets/perfboard-schematic-example.png)
--->
-```
+
 ## Main Features
 
 ### 2.54 mm visual perfboard grid
@@ -54,13 +50,8 @@ A subtle hole grid on `User.Drawings` represents the physical perfboard
 and helps align components with the real 2.54 mm pitch. The grid objects
 are grouped and intentionally unobtrusive.
 
-`<tbd img grid>`{=html}
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/pcb_grid.png)
 
-```{=html}
-<!-- Replace with:
-![Virtual 2.54 mm perfboard grid](assets/perfboard-grid.png)
--->
-```
 ### Dedicated wiring layers
 
   KiCad layer   Template name   Purpose
