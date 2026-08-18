@@ -51,6 +51,10 @@ and helps align components with the real 2.54 mm pitch. The grid objects
 are grouped and intentionally unobtrusive.
 
 ![Example perfboard grid layout](BK_Perfboard_2.54/assets/pcb_grid.png)
+> [!TIP]
+> If you do not need this grid, disable/enable this via User.drawing layer
+<br>
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/pcb_grid.png)
 
 ### Dedicated wiring layers
 
