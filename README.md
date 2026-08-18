@@ -66,13 +66,8 @@ are grouped and intentionally unobtrusive.
 These layers are a logical planning model. They do **not** imply that
 the physical perfboard is a four-layer PCB.
 
-`<tbd img layers>`{=html}
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/perf_layer.png)
 
-```{=html}
-<!-- Replace with:
-![Perfboard layer concept](assets/perfboard-layers.png)
--->
-```
 ### BK_Perf_SolderPoint
 
 The included `BK_Perf_SolderPoint` footprint represents an intentional
@@ -88,13 +83,15 @@ Typical uses include:
 Its rounded rectangular shape deliberately distinguishes it from
 ordinary component pads.
 
-`<tbd img solderpoint>`{=html}
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/perf_solderpoints.png)
 
-```{=html}
-<!-- Replace with:
-![BK_Perf_SolderPoint example](assets/perf-solderpoint.png)
--->
-```
+> [!TIP]
+> Every solder point must attached to a net layer (e.g. GND, +5V, NET-xxxxxx, ....)
+> Mark solder point, press E and change netclass
+
+![Example perfboard grid layout](BK_Perfboard_2.54/assets/perf_solderpoints_netclass.png)
+
+
 ### Grid-aligned board outline
 
 The default outline is approximately 120 × 80 mm and aligned to the 2.54
