@@ -24,13 +24,8 @@ bottom- and component-side wiring, wire jumpers, intentional
 solder/junction points, ERC/DRC-assisted checks, and documentation
 before physical assembly.
 
-`<tbd img pcb>`{=html}
+![Example perfboard PCB layout](assets/pcb_7seg_demo.png)
 
-```{=html}
-<!-- Replace with:
-![Example perfboard PCB layout](assets/perfboard-pcb-example.png)
--->
-```
 ## Why use KiCad for perfboard?
 
 Perfboard projects often become difficult to review once the circuit
