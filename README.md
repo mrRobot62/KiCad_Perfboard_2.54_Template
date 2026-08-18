@@ -256,10 +256,7 @@ goals in mind:
 
 ## License
 
-No license has been selected yet.
-
-Before publishing the repository for reuse or contributions, add an
-appropriate `LICENSE` file and update this section.
+MIT License, Copyright (c) 2026 Bernd Klein
 
 ## Version
 
