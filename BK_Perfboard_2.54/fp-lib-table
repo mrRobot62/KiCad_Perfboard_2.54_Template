@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BK_Perfboard_2.54") (type "KiCad") (uri "${KICAD_USER_TEMPLATE_DIR}/BK_Perfboard_2.54/footprints/BK_Perfboard_2.54.pretty") (options "") (descr ""))
+)
